@@ -15,8 +15,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in knowing how people respond to offers sent to them:
 
 1. Which offer type do people respond to most?
-2. Do elder people use offers or not?
-3. Do higher income people use BOGO (Buy One Get One) offer more than other offers?
+2. Are teens influenced offers or not?
+3. Do lower income people use BOGO (Buy One Get One) offer more than other offers?
 4. What percentage of people complete the offer without seeing the offer??
 
 
@@ -24,9 +24,15 @@ For this project, I was interestested in knowing how people respond to offers se
 
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
+The data is contained in three files:
+
+1. portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+2. profile.json - demographic data for each customer
+3. transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@vishalmadheshia).
+The main findings of the code can be found at the post available [here](https://medium.com/@vishalmadheshia/this-new-data-will-make-you-rethink-how-people-respond-to-offers-for-coffee-b89ce118b642).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
